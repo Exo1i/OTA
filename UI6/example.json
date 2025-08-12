@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1230764400,
+      "filename": "test.zip",
+      "id": "5eb63bbbe01eeed093cb22bb8f5acdc3",
+      "romtype": "OneUI6",
+      "size": 314572800,
+      "url": "https://test.zip",
+      "version": "14"
+    }
+  ]
+}
