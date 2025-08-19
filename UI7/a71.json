@@ -1,14 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1755176824,
-      "filename": "MeidyOS_1.0.0-20250814_a71.zip",
       "id": "Meow:3",
-      "romtype": "OneUI7",
-      "size": 4664300390,
+      "datetime": 1755617755,
+      "filename": "MeidyOS_1.0.0-20250814_a71.zip",
       "url": "https://gofile.io/d/2GxKdy",
-      "version": "15",
       "versionName": "1.0.0",
+      "romType": "oneUI7",
       "changelog": [
         "August 2025 security patch.",
         "Improved system stability and performance.",
@@ -17,7 +15,6 @@
       ],
       "androidVersion": "15",
       "oneUIVersion": "7.0",
-      "securityPatch": "2025-08-01",
       "websiteUrl": "https://meidyos.org/",
       "changelogImageUrl": "https://raw.githubusercontent.com/MeidyOS/OTA/main/images/a71_header.png"
     }
